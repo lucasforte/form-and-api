@@ -1,0 +1,12 @@
+{
+  "name": "form-and-api",
+  "version": "1.0.0",
+  "description": "This repo contains the example of a SPA, builded using only vanilla JS, that show a form with validations and a page with filtered data from an API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Forte",
+  "license": "ISC"
+}
